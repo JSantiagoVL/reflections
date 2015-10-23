@@ -1,0 +1,9 @@
+* What happens when you intialize a repository?
+
+The .git directori is created.
+There is no log informaition due a commit hasnt happen
+The git status can give us the information about the current repository, but it  cant track the filies on it, cause they are not trackables at the begin.
+
+* How is the staging area different from the working directory and the repository? What value do you think it offers?
+
+Datos en el cuaderno
